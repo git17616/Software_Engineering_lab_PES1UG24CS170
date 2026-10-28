@@ -45,6 +45,7 @@ def check_passing_status(student_id, pass_threshold=50.0):
     average = sum(student["marks"]) / len(student["marks"])
     return average >= pass_threshold
 
+
 def compute_weighted_gpa(student_id):
     """Calculate a GPA-like score from the student's average marks."""
     marks = gradebook[student_id]["marks"]
