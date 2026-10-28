@@ -1,0 +1,1 @@
+{'S01': {'name': 'Alice', 'marks': [85, 90, 78, 95], 'attendance': 92}, 'S02': {'name': 'Bob', 'marks': [60, 55, 65], 'attendance': 76}, 'S03': {'name': 'Charlie', 'marks': [40, 42, 38], 'attendance': 65}}
